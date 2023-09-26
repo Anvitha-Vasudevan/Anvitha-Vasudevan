@@ -1,6 +1,21 @@
 
 
-<h1 align="center">Hi 👋, I'm Anvitha</h1>
+<h1 align="center" >Anvitha</h1>
+<h3 align="center"><b>Google DSC CP Core Member'22 | Core Member @DevNation | Web Developer</b></h3>
+<h4 align="center">I'm Anvitha a Passionate developer from India currently pursuing my Computer science engineering at AJIET Mangalore.I really enjoy learning new languages and framesworks.</h4>
+
+<h3>LANGUAGES AND TECHNOLOGIES</h3> 
+•	👨‍💻 Programming Languages: C, C++, Java, HTML, SQL, Python. <br>
+•	‎‍💻 Platform: GCP, Web, Linux, Windows.<br>
+•	⚛️ Tools: git, Figma, MySQL, OracleSql, Android Studio, DBMS.<br>
+•	👩🏻‍💼 Soft Skills: Communication,Leadership, Problem Solving, Business Requirement, Event Management, Teaching.<br>
+
+<h3>EXPIRIENCES AND AWARDS</h3> 
+• <b>Google DSC Core Member</b><br>
+• <b>Core Member</b><br>
+-	DevNation Open-Source Community<br>
+- DevNation is community of our college where we educate and bring awareness about open-source contribution / development where we organize resources to coordinate events, workshops.<br>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anvitha-vasudevan&label=Profile%20views&color=0e75b6&style=flat" alt="anvitha-vasudevan" /> </p>
 
